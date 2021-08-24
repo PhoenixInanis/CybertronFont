@@ -121,6 +121,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-family: cybertron, cursive;   /*changes the font of associated text*/
    font-size: 15px;   /*changes the font size of associated text*/
    line-height: 1.5;   /*changes the line spacing of associated text*/
+   letter-spacing: 0.1em;
 }
 
 
@@ -129,6 +130,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-family: cybertron, cursive;
    font-size: 15px;
    line-height: 1.5;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling Global/// */
 
@@ -139,6 +141,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-family: cybertron, cursive;
    font-size: 65px;
    color: rgba(0, 255, 255, .6);
+   letter-spacing: 0.1em;
 }
 
 
@@ -146,6 +149,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-family: cybertron, cursive;
    font-size: 65px;
    color: rgba(0, 255, 255, .6);
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H1/// */
 
@@ -163,6 +167,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    border-bottom-color: rgba(0, 255, 255, .6);
    color: rgba(0, 255, 255, .6);
    font-family: cybertron, cursive;
+   letter-spacing: 0.1em;
 }
 
 
@@ -177,6 +182,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    border-bottom-color: rgba(0, 255, 255, .6);
    color: rgba(0, 255, 255, .6);
    font-family: cybertron, cursive;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H2/// */
 
@@ -191,6 +197,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    padding: 0px;
    color: rgba(0, 255, 255, .6);
    font-family: cybertron, cursive;
+   letter-spacing: 0.1em;
 }
 
 
@@ -202,6 +209,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    padding: 0px;
    color: rgba(0, 255, 255, .6);
    font-family: cybertron, cursive;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H3/// */
 
@@ -216,6 +224,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    padding: 0px;
    color: rgba(0, 255, 255, .6);
    font-family: cybertron, cursive;
+   letter-spacing: 0.1em;
 }
 
 
@@ -227,6 +236,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    padding: 0px;
    color: rgba(0, 255, 255, .6);
    font-family: cybertron, cursive;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H4/// */
 
@@ -241,6 +251,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    padding: 0px;
    color: rgba(0, 255, 255, .6);
    font-family: cybertron, cursive;
+   letter-spacing: 0.1em;
 }
 
 
@@ -252,6 +263,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    padding: 0px;
    color: rgba(0, 255, 255, .6);
    font-family: cybertron, cursive;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H5/// */
 
@@ -261,12 +273,14 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 .user-css span {
    font-family: cybertron, cursive;
    color: rgba(0, 255, 255, .6);
+   letter-spacing: 0.1em;
 }
 
 
 .user-css-extended span {
    font-family: cybertron, cursive;
    color: rgba(0, 255, 255, .6);
+   letter-spacing: 0.1em;
 }
 /* ///Spans/// */
 
@@ -278,6 +292,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-size: 16px;
    color: rgba(0, 255, 255, .6);
    animation: linksforfun 2.0s infinite;
+   letter-spacing: 0.1em;
 }
 
 
@@ -291,6 +306,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-size: 16px;
    color: rgba(0, 255, 255, .6);
    animation: linksforfun 2.0s infinite;
+   letter-spacing: 0.1em;
 }
 
 
@@ -304,6 +320,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 /* ///Font Styling Homepage Followers/// */
 .user-css-followers-counter-number a {
    font-size: 18px;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling Homepage Followers/// */
 
@@ -456,7 +473,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    margin-top: 45px;
    margin-bottom: 0px;
    padding: 30px;
-   background: url(https://www.worldanvil.com/uploads/images/8f558a520891ad67a01d021636f931db.gif);
+   background: url(https://www.worldanvil.com/uploads/images/5e1762e98a7188c0de61bbd48c6e6a81.png);
    background-size: 100%;
    background-repeat: no-repeat;
    background-position: center;
