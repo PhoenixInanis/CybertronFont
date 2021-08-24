@@ -473,7 +473,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    margin-top: 45px;
    margin-bottom: 0px;
    padding: 30px;
-   background: url(https://www.worldanvil.com/uploads/images/5e1762e98a7188c0de61bbd48c6e6a81.png);
+   background: url(https://www.worldanvil.com/uploads/images/019be2e657e37c7fceaccfc0a7ba3a4e.gif);
    background-size: 100%;
    background-repeat: no-repeat;
    background-position: center;
