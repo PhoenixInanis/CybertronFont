@@ -105,7 +105,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    max-height: 800px;
    padding: 50px;
    border-image-source: url(https://www.worldanvil.com/uploads/images/6b690c00d2edbdf9355255f19f28f123.png);
-   border-image-slice: 20; /*complicated magic that lets you use custom borders. If you can explain this to me please help.*/
+   border-image-slice: 25; /*complicated magic that lets you use custom borders. If you can explain this to me please help.*/
    border-image-repeat: repeat;
    border-width: 20px;
    border-style: solid;
