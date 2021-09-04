@@ -1206,6 +1206,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 .user-css-extended {
    font-size: 14px;
    line-height: 1.2;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling Global/// */
 
@@ -1216,6 +1217,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-size: 35px;
    line-height: 1.3;
    margin-top: 30px;
+   letter-spacing: 0.1em;
 }
 
 
@@ -1223,6 +1225,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-size: 35px;
    line-height: 1.3;
    margin-top: 30px;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H1/// */
 
@@ -1234,6 +1237,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    margin-bottom: 3px;
    line-height: 1.2;
    margin-top: 10px;
+   letter-spacing: 0.1em;
 }
 
 
@@ -1242,6 +1246,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    margin-bottom: 3px;
    line-height: 1.2;
    margin-top: 10px;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H2/// */
 
@@ -1252,6 +1257,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-size: 21px;
    margin-bottom: 3px;
    margin-top: 10px;
+   letter-spacing: 0.1em;
 }
 
 
@@ -1259,6 +1265,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    font-size: 21px;
    margin-bottom: 3px;
    margin-top: 10px;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H3/// */
 
@@ -1267,11 +1274,13 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 /* ///Font Styling/// H4 */
 .user-css h4 {
    font-size: 18px;
+   letter-spacing: 0.1em;
 }
 
 
 .user-css-extended h4 {
    font-size: 18px;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H4/// */
 
@@ -1280,11 +1289,13 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 /* ///Font Styling H5/// */
 .user-css h5 {
    font-size: 14px;
+   letter-spacing: 0.1em;
 }
 
 
 .user-css-extended h5 {
    font-size: 14px;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling H5/// */
 
@@ -1293,11 +1304,13 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 /* ///Spans/// */   /*don't remember what is considered span but I wrote it for a reason*/
 .user-css span {
    font-size: 14px;
+   letter-spacing: 0.1em;
 }
 
 
 .user-css-extended span {
    font-size: 14px;
+   letter-spacing: 0.1em;
 }
 /* ///Spans/// */
 
@@ -1306,10 +1319,12 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 /* ///Font Styling Links/// */
 .user-css a {
    font-size: 14px;
+   letter-spacing: 0.1em;
 }
 
 .user-css-extended a {
    font-size: 14px;
+   letter-spacing: 0.1em;
 }
 /* ///Font Styling Links/// */
 
