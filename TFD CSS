@@ -296,8 +296,8 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 }
 
 
-.user-css a:hover{  /*adding :hover following the container will allow editing of hover characteristics. The following line increases the opacity of links when hovered over*/ 
-   color: rgba(0, 255, 255, .8);
+.user-css a:hover{  /*adding :hover following the container will allow editing of hover characteristics.*/ 
+   color: rgba(0, 255, 100, .6);
 }
 
 
@@ -311,7 +311,7 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
 
 
 .user-css-extended a:hover{
-   color: rgba(0, 255, 255, .8);
+   color: rgba(0, 255, 100, .6);
 }
 /* ///Font Styling Links/// */
 
