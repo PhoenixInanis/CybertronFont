@@ -1149,6 +1149,17 @@ box-shadow: whatever you want your box shadow to be;
 
 
 
+/* Calendar */
+.user-css-calendar .calendar-day { background-color: rgba(0, 100, 100, .6)
+} 
+
+.user-css .calendar-day.holiday {
+   box-shadow: inset 0px 0px 5px rgba(0, 100, 100, .6);
+ }
+/* Calendar */
+
+
+
 /* -------------------------- */
 /* -------   Global   ------- */
 /* -------------------------- */
