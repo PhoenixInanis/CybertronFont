@@ -87,8 +87,8 @@ $$$$$$$$\ $$ | \_/ $$ |$$$$$$$  |
 
 /* ///Page + Article Background/// */
 .user-css-presentation {   /*this affects the overall background of the world*/
-background: url(https://www.worldanvil.com/uploads/images/1d35aa77368b1f5d09934f97ab520ca3.jpg);
-background-size: 50%;
+background: url(https://www.worldanvil.com/uploads/images/fbef0a3ae0a2fad1380c6eacd721c03b.png);
+background-size: 100%;
 background-attachment: fixed;   /*this locks the image on the screen; it wont scroll*/
 }
 
