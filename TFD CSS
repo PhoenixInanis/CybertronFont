@@ -87,7 +87,7 @@ $$$$$$$$\ $$ | \_/ $$ |$$$$$$$  |
 
 /* ///Page + Article Background/// */
 .user-css-presentation {   /*this affects the overall background of the world*/
-background: url(https://www.worldanvil.com/uploads/images/fbef0a3ae0a2fad1380c6eacd721c03b.png);
+background: url(https://www.worldanvil.com/uploads/images/6186799603312ca72ce6072a09eabf3b.png);
 background-size: 100%;
 background-attachment: fixed;   /*this locks the image on the screen; it wont scroll*/
 }
@@ -1180,8 +1180,8 @@ box-shadow: whatever you want your box shadow to be;
     
 /* ///Page + Article Background/// */
 .user-css-presentation {   /*this affects the overall background of the world*/
-background: url(https://www.worldanvil.com/uploads/images/1d35aa77368b1f5d09934f97ab520ca3.jpg);
-background-size: 120%;
+background: url(https://www.worldanvil.com/uploads/images/6186799603312ca72ce6072a09eabf3b.png);
+background-size: 150%;
 background-attachment: fixed;   /*this locks the image on the screen; it wont scroll*/
 }
 
@@ -1198,8 +1198,8 @@ background-attachment: fixed;   /*this locks the image on the screen; it wont sc
    overflow-x: hidden;
    max-height: 500px;
    padding: 50px;
-   border-image-source: url(https://www.worldanvil.com/uploads/images/2b88f3db8d33b709acdd1dc47b585096.png);
-   border-image-slice: 20;
+   border-image-source: url(https://www.worldanvil.com/uploads/images/6b690c00d2edbdf9355255f19f28f123.png);
+   border-image-slice: 25;
    border-image-repeat: stretch;
    border-width: 20px;
    border-style: solid;
