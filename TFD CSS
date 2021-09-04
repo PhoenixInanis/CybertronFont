@@ -1154,7 +1154,7 @@ box-shadow: whatever you want your box shadow to be;
 } 
 
 .user-css .calendar-day.holiday {
-   box-shadow: inset 0px 0px 5px rgba(0, 100, 100, .6);
+   box-shadow: inset 0px 0px 5px rgba(0, 50, 50, .6);
  }
 
 .user-css-calendar .table .calendar-weekday {
